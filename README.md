@@ -1,6 +1,6 @@
 # MNeuEdit: Mesh-Guided Neural Implicit Field Editing
 
-### [Project Page](Link) | [Paper (ArXiv)](Link)
+### [Project Page](https://cassiepython.github.io/MNeuEdit/) | [Paper (ArXiv)](Link)
 <img src="asset/teaser.png">
 
 ## Abstract
